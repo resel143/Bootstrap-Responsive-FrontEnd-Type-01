@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(155, 146, 146);
+}
+.container{
+    margin-top: 50px;
+    /* border: 4px solid purple; */
+}
+.row{
+    /* border: 3px solid orange; */
+}
+.col-8, .col-4{
+    color: white;
+    border: 1px solid snow;
+    /* background-color: teal; */
+}
+#header{
+    background-color:blueviolet;
+    color: wheat;
+
+}
+#menu{
+    background-color: antiquewhite;
+    color: blue;
+}
+#menu ul{
+    padding-top: 5px;
+    list-style: none;
+}
+#menu ul li{
+    display: inline-block;
+    text-decoration: underline;
+}
+#main{
+    background-color: slateblue;
+    color: white;
+}
+#sidebar{
+    padding-top: 5px;
+    background-color: brown;
+    color: white;
+}
+#footer{
+    color:white;
+    background-color: rgb(59, 23, 23);
+}
